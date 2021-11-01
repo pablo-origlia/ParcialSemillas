@@ -1,6 +1,6 @@
-# 🌱 Semillas al viento 🌱
 
-<img src="images/huerta.jpg" width="500px" />
+# 🌱 Parcial 2021 - Segundo Cuatrimestre - Semillas  🌱
+
 
 Una organización de pequeños productores nos pidió crear una aplicación para poder medir mejor el desempeño de sus huertas.
 
