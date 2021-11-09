@@ -1,3 +1,5 @@
+import parcelas.*
+
 class Planta {
 
   const property anioObtencionSemilla = 0

@@ -1,3 +1,5 @@
+import plantas.*
+
 class Parcela {
 
   const property ancho
